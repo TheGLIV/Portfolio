@@ -2,8 +2,8 @@
   { 
     "title": "Portfolio Website", 
     "description": "My personal portfolio page, built using HTML, CSS, and asynchronous JavaScript to load project data.",
-    "repoUrl": "https://github.com/your-username/your-portfolio-repo",
-    "liveUrl": "https://your-username.github.io/your-portfolio-repo/"
+    "repoUrl": "https://github.com/TheGLIV/Portfolio",
+    "liveUrl": "https://thegliv.github.io/Portfolio/"
   },
   { 
     "title": "Study Planner App", 

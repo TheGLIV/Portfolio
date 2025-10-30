@@ -35,3 +35,31 @@ a{
     margin-bottom: 15px;
     border-radius: 5px;
 }
+
+/* In styles.css, add this */
+#project-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.project-links a {
+  margin-right: 10px; /* Style your new links */
+}
+
+/* In styles.css, add this */
+.skills-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skills-list li {
+  background-color: #005a9c;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
+}
